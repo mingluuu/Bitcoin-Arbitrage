@@ -1,4 +1,5 @@
 # FinTech_Challenge_3
+
 **Overview**
 ----
 Looking over historical data value of Bitcoin during the first three months of 2018 (January, February and March) on two different exchanges: Bitstamp and Coinbase.
@@ -9,13 +10,14 @@ Analyzing data over 2 different monthy period in 2018: from January 01 to Januar
 
 After analyzing the data, we can see the arbitrage between Coinbase and Bitstamp was possible to be realized with a profit early on but disapeared with time.
 
-Requirements
+**Requirements**
+----
 This project leverages python 3.7 with the following libraries:
 
-condas - For condas informations
+*condas - For condas informations*
 
-Path - For informations
+*Path - For informations*
 
-Matplotlib
+*Matplotlib*
 
-To use Bitcoin arbitrage Notebook simply open the crypto_arbitrage.ipynb file in Jupyter.
+To use Bitcoin arbitrage Notebook simply open the crypto_arbitrage.ipynb file in Jupyter Notebook.
