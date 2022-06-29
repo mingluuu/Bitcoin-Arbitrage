@@ -20,4 +20,6 @@ This project leverages python 3.7 with the following libraries:
 
 *Matplotlib*
 
+**Instructions**
+----
 To use Bitcoin arbitrage Notebook simply open the crypto_arbitrage.ipynb file in Jupyter Notebook.
