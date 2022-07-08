@@ -1,4 +1,4 @@
-# FinTech_Challenge_3
+# Bitcoin Arbitrage
 
 **Overview**
 ----
